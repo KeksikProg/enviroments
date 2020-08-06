@@ -1,0 +1,10 @@
+export secret_key='e9sv6hb8u53vz4rvzqf-ujo4)txxc!m8vwigt69&oz)w6!9gf3'
+export db_name='django_shop'
+export db_user='max'
+export db_pass=1475963
+export email_port=465
+export email_host='smtp.gmail.com'
+export user_host='twochairmax@gmail.com'
+export user_pass=1234567812345678
+export vk_secret='rHAOQYOdYQfsXCQUjqPC'
+export vk_key=7476993
