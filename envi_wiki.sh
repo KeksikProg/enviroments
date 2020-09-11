@@ -1,0 +1,10 @@
+export secret_key='sm7+km)%$0_cd2*hh-$rptjzmrcg5p-qac@9p8%aim*7-=fh31'
+export db_name='django_wiki'
+export db_user='max'
+export db_pass=1475963
+export email_port=465
+export email_host='smtp.gmail.com'
+export user_host='twochairmax@gmail.com'
+export user_pass=1234567812345678
+export vk_secret='rHAOQYOdYQfsXCQUjqPC'
+export vk_key=7476993
